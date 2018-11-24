@@ -1,0 +1,183 @@
+.d-block{
+	display: inline-block;
+}
+.header{
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.logo{
+	vertical-align: middle;
+}
+.navigation_a{
+	font-family: 'BPG Nino Mtavruli Bold', sans-serif;
+}
+.red{
+	color: red;
+}
+.mtavari{
+	margin-left: 50px;
+}
+.siaxleebi{
+	margin-left: 23px;
+}
+.kontaqti{
+	margin-left: 40px;
+}
+
+.section{
+	margin-left: 30px;
+	margin-top: 41px;
+}
+.box{
+	color: white;
+	font-size: 48px;
+	background-color: #3D58A6;
+	width: 56px;
+}
+.tve{
+	padding-top: 6px;
+	font-size: 22px;
+	color: #3D58A6;
+}
+
+.info{
+	margin-top: 30px;
+	margin-left: 30px;
+	margin-bottom: 73px;
+}
+.satauri{
+	font-size: 20px;
+	font-family: 'BPG Nino Mtavruli', sans-serif;
+}
+.IMG{
+	margin-top: 23px;
+	width: 270px;
+	vertical-align: top;
+}
+.statia{
+	margin-top: 23px;
+	margin-left: 39px;
+	width: 929px;
+	font-size: 16px;
+	font-family: 'BPG Nino Mtavruli', sans-serif;
+}
+.text{
+	padding-top: 23px;
+}
+.footer{
+	margin-left: 34px;
+	margin-bottom: 26px;
+}
+.icon_fb{
+	width: 14px;
+	margin-right: 35px;
+}
+.tixari{
+	background-color: #3D58A6;
+	width: 1.5px;
+	height: 27px;
+}
+.icon_youtube{
+	margin-left: 30px;
+	width: 25px;
+}
+.banner_section{
+	margin-left: 89px;
+	margin-top: 77px;
+}
+}
+.banner{
+	width: 1169px;
+}
+.section2box{
+	margin-top: 125px;
+	margin-left: 98px;
+	margin-bottom: 68px;
+}
+.boxtitle{
+	font-size: 24px;
+	margin-bottom: 37px;
+	font-family: 'Roboto', sans-serif;
+
+}
+.box_1{
+	background-color: #F2F2F2;
+	width: 570px;
+	height: 225px;
+}
+.qvesatauri1{
+	font-size: 22px;
+	color: #3D58A6;
+	padding-left: 17px;
+	padding-top: 18px;
+	padding-bottom: 19px;
+	font-family: 'Roboto', sans-serif;
+}
+.box_1_img{
+	width: 101px;
+	height: 130px;
+	margin-left: 39px;
+	vertical-align: top;
+}
+.boxtext1{
+	font-size: 20px;
+	padding-left: 56px;
+	width: 355px;
+	font-family: 'Roboto', sans-serif;
+}
+.box_{
+	background-color: #F2F2F2;
+	width: 570px;
+	height: 225px;
+}
+.box_2{
+	margin-left: 29px;
+	background-color: #F2F2F2;
+	width: 570px;
+	height: 225px;
+}
+.boxtext2{
+	font-size: 20px;
+	padding-left: 53px;
+	width: 354px;
+	font-family: 'Roboto', sans-serif;
+}
+.box_2_img{
+	width: 85px;
+	height: 128px;
+	margin-left: 39px;
+	vertical-align: top;
+}
+.contactheaderbottom{
+	margin-bottom: 24px;
+}
+.mapbackground{
+	background-color: #E6E6E6;
+	width: 1366px;
+	height: 570px;
+	margin-bottom: 32px;
+}
+.mapinfo{
+	padding-left: 97px;
+	padding-top: 57px;
+	vertical-align: top;
+}
+.text_h1{
+	font-size: 20px;
+	color: #3D58A6;
+	font-family: 'BPG Nino Mtavruli Bold', sans-serif;
+}
+.text_p{
+	padding-top: 7px;
+	font-family: 'BPG Ingiri Arial', sans-serif;
+	font-weight: bold;
+}
+.span{
+	font-weight: normal;
+	color: #808080;
+}
+.map{
+	width: 874px;
+	padding-left: 55px;
+	padding-top: 49px;
+}
